@@ -1,0 +1,2 @@
+# Altermagnetism_Fluctuation_Linear_Gap_Equation
+Numerical and analytical study of superconducting pairing from altermagnetic fluctuations
